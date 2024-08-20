@@ -1,2 +1,1 @@
-# Selenium-Automation
-A Selenium repository is designed to automate browser interactions using Selenium WebDriver, enabling end-to-end testing of web applications. The repository can include test scripts, configurations, and other resources necessary for running and maintaining automated tests.
+This repository contains a Selenium-based test automation framework designed for end-to-end testing of web applications. It utilizes the Page Object Model (POM) pattern, is built with TestNG, and supports cross-browser testing. The framework is designed to be scalable, maintainable, and easily extensible.
